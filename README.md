@@ -1,5 +1,5 @@
 <h3>Name:Iniyasri S</h3>
-<h3>212223230081</h3>
+<h3>Register no:212223230081</h3>
 <h3>EX. NO.6</h3>
 <h3>DATE:</h3>
 <h1 align="center">Heart attack prediction using MLP</h1>
